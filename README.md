@@ -1,4 +1,4 @@
-# Local-File-Search-Engine
+# Local-File-Search-Engine (Search in milliseconds)
 ### Step 1: Fetch files
 ### Step 2: Wait for indexing
 ### Step 3: Then search
